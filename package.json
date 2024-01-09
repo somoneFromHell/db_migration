@@ -1,0 +1,23 @@
+{
+  "name": "db_migratio",
+  "version": "1.0.0",
+  "description": "to migrate database from sql to mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somoneFromHell/db_migration.git"
+  },
+  "author": "mitesh maurya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/somoneFromHell/db_migration/issues"
+  },
+  "homepage": "https://github.com/somoneFromHell/db_migration#readme",
+  "dependencies": {
+    "mongodb": "^6.3.0",
+    "mssql": "^10.0.1"
+  }
+}
